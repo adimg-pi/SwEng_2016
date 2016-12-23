@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name: Kopnin Anton
 Added: 12.12.2016 07:54
 
@@ -37,3 +38,56 @@ Added: 22.12.2016 20:40
 
 Name: Khurdayan Ardashes
 Added: 22.12.2016 22:50
+=======
+Name: Kopnin Anton
+Added: 12.12.2016 07:54
+
+Name: Tananakin Michael
+Added: 14.12.2016 14:30
+
+Name: Alexander Birukov
+Added: 12.12.2016 14:51
+
+Name: Stepin Dmitry
+Added: 16.12.2016 23:51
+
+Name: Valieva Yana
+Added: 17.12.2016 18:55
+
+Name: Goncharov Alexey
+Added: 18.12.2016 22:28
+Name: Svetlichnyy Alexander
+Added: 18.12.2-16 23:11
+
+Name: Litovchenko Dmitry
+Added: 19.12.2016 18:36
+Name: Abramov Anatoly
+Added: 20.12.2016 11:45
+
+Name: Danilin Dmitry
+Added: 21.12.2016 16:07
+
+Name: Klevleev Stepan
+Added: 22.12.2015 16:35
+
+Name: Kvachev Vsevolod
+Added: 22.12.2015 19:30
+
+Name: Naseka Andrew
+Added: 22.12.2016 20:40
+
+Name: Skachkov Igor
+Added: 22.12.2016 22:51
+
+Name: Zakharova(Yurova) Marina
+Added: 23.12.2016 10:29
+
+Name: Degtyareva Svetlana
+Added: 23.12.2016 12:38
+
+Name: Kislenko Vladislav
+Added: 23.12.2016 13:15
+
+Name: Senchenko Natalya
+Added: 23.12.2016 14.44
+>>>>>>> c5f1caffb7591978ce7678b78f93df356c51bf80
